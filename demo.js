@@ -11,3 +11,4 @@ if (question1.toUpperCase() === 'YES') {
 console.log('Exactly what user entered: ' + question1);
 console.log('What I am testing in my "if" condition: ' + question1.toUpperCase());
 
+// here are some changes....
