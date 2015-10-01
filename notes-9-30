@@ -1,0 +1,44 @@
+abstraction - CS term
+
+001001011011011010101101101110110001110001
+2B 34 E7
+if
+
+interface
+
+data types: numbers, strings (text), booleans (T/F)
+
+variable typing: JS has loose typing
+
+declare: var cat;
+assign: cat = 'meow';
+simultaneous: var dog = 'woof';
+
+
+==   'loose equals'; type coercion
+===  'strict equals'
+
+
+
+
+
+
+
+if...else
+
+if (condition is true) {
+  do this code;
+  and this code, too;
+  whatever is in this block;
+}
+
+++++++++++++++++++++++++++++++++++++
+
+if (condition is true) {
+  do this code;
+  and this code, too;
+  whatever is in this block;
+} else {
+  do this other code;
+  and this other stuff as well;
+}
